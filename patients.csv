@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,gender,date_of_birth,phone,address
+1,Arjun,Kumar,Male,1995-05-10,9876543210,Chennai
+2,Priya,Sharma,Female,1998-08-15,9876501234,Delhi
+3,Rahul,Verma,Male,1992-12-20,9123456780,Mumbai
+4,Sneha,Reddy,Female,1997-03-25,9988776655,Hyderabad
+5,Vikram,Singh,Male,1990-07-30,9090909090,Bangalore

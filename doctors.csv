@@ -1,0 +1,7 @@
+doctor_id,first_name,last_name,specialization,experience_years,phone,salary
+101,"Dr. Mehta",Raj,Cardiology,10,9000011111,120000.00
+102,"Dr. Anjali",Kapoor,Neurology,8,9000022222,110000.00
+103,"Dr. Ravi",Menon,Orthopedics,12,9000033333,130000.00
+104,"Dr. Pooja",Nair,Dermatology,6,9000044444,90000.00
+105,"Dr. Suresh",Iyer,Pediatrics,9,9000055555,100000.00
+106,"Dr. Mehta",Raj,Cardiology,10,9000011111,120000.00

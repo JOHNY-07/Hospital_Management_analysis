@@ -1,0 +1,8 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,consultation_fee
+1001,1,101,2026-02-10,10:00:00,Completed,500.00
+1002,2,102,2026-02-11,11:30:00,Scheduled,600.00
+1003,3,103,2026-02-12,09:15:00,Completed,700.00
+1004,4,104,2026-02-13,14:00:00,Cancelled,400.00
+1005,5,105,2026-02-14,16:45:00,Scheduled,550.00
+1006,5,105,2026-02-14,18:45:00,Scheduled,850.00
+1007,2,105,2026-02-10,10:00:00,Completed,500.00
